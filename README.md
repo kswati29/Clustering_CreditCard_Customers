@@ -16,3 +16,6 @@ Perform clustering choosing between 3-5 clusters
 Using the original unscaled data (without the customer ID), calculate the mean of each cluster
 Analyse the results and findings
 This is a very simple approach to customer segmentation assigning the customers into groups, and try to extract some common features from observations within the same group.
+
+## Results
+Results demonstrate that for the credit card dataset, Hierarchical Clustering is the best method out of the three for customer segmentation since the features are clustered better revealing more information than in others.

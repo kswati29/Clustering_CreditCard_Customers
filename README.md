@@ -1,4 +1,4 @@
-# Clustering_CreditCard_Customers
+# CreditCard_CustomerSegmentation_Clustering
 Agglomerative Hierarchical method, Density based DBScan and Distribution model-based Gaussian Mixture Models on credit card dataset
 
 ## Introduction

@@ -1,5 +1,5 @@
 # CreditCard_CustomerSegmentation_Clustering
-Agglomerative Hierarchical method, Density based DBScan and Distribution model-based Gaussian Mixture Models on credit card dataset
+Approach uses Agglomerative Hierarchical method, Density based DBScan and Distribution model-based Gaussian Mixture Models on credit card dataset
 
 ## Introduction and Goal
 This notebook explores the use of clustering as data exploration and analysis for customer segmentation by analyzing usage behavior of about 9000 active credit card holders during a 6 month period.  The goal is to segment the customers into groups, to reveal (any) hidden pattern within the customers with no knowledge of labels.
